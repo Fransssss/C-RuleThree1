@@ -4,5 +4,5 @@ Practice using copy constructor, copy assignment operator=, and destructor in a 
 
 Example Output
 
-![image](https://user-images.githubusercontent.com/97081479/170119766-90fd5106-c679-4038-a1eb-c3683199fc52.png)
+![image](https://user-images.githubusercontent.com/97081479/170160635-fd0098cd-a6bf-4319-804f-af29cf5a975d.png)
 
